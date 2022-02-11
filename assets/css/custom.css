@@ -1,0 +1,69 @@
+@media (min-width: 768px)
+{
+	.navbar {
+		border-bottom: 0px dotted rgba(255,255,255,0.3);
+
+	}
+	.navbar .nav > li > a
+	{
+		padding-top: 50px;
+		padding-bottom: 20px;
+	}
+	.navbar .nav > li > a.nav-btn
+	{
+		padding-top: 40px;
+		padding-bottom: 40px;
+	}
+	.navbar.affix .navbar-header .navbar-brand {
+		width: 130px;
+	}
+	.navbar.affix .navbar-header .navbar-brand>img {
+		width: 42px;
+	}
+	.navbar.affix .nav > li > a, .navbar.affix .nav > li > a:focus {
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+}
+
+.navbar .nav > li.active > a, .navbar .nav > li.active > a:focus {
+    color: #dfbf74 !important;
+}
+.thm-btn, .btn-top, .region, .portfolio-sorting li a span, .pagination-inner .pager li > a, .pagination > li > a:hover, .pagination-inner .pagination > .active > a, .cats-title span, .ui.tag:hover {
+    background-color: #dfbf74 !important;
+}
+.navbar .navbar-nav>.open>a, .navbar .navbar-nav>.open>a:focus, .navbar .navbar-nav>.open>a:hover, .travel-times span, .uc, .owl-theme .owl-controls .owl-buttons div, figure.effect-milo .ratting, .block .price, .destination-grid .dest-name h5, .hotel-item .hotel-body .ratting i, .blog-content:hover h4, .portfolio-sorting li a:hover, .portfolio-sorting li a.active, .filters-btn:hover i, .travel-title span i, .pagination-inner .pager li > a:hover, .pagination > li > a, .cats-widget ul li:hover, .cats-widget ul li:hover a, .popular-post-inner ul li a:hover, .checkbox-star .star i, .help-widget h4 span, .hotel-review .hotel-review-ratting, .booking-form .icon-addon .glyphicon, .btn-pm, .contact-icon a:hover, .contact-content a, .categoty li a:hover, .footer-menu ul li a:hover
+{
+	    color: #dfbf74 !important;
+}
+.panel-body {
+    background-color: rgb(223, 191, 116);
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
+	background-color: rgb(223, 191, 116);
+}
+.dest-icon
+{
+	display:none;
+}
+.package-ratting 
+{
+	display:none;	
+}
+/*.effect-block > button
+{
+	display:none;	
+}*/
+.fs-pager-wrapper a, .fs-custom-pager-wrapper a
+{
+	background: #dfbf74;
+}
+.inner-box:hover {
+    border: 4px solid #dfbf74;
+}
+.home-ref blockquote .author {
+    color: #ffffff !important;
+}
+.home-ref .testimonials blockquote::before {
+    color: #dfbf74;
+}
